@@ -39,7 +39,7 @@ A React-based To-Do List application with manual sequence reordering using React
 | 🪝 **React Hooks** | `useState` | State management (todos, input) |
 | ⚡ **Vite** | 5+ | Fast dev server & build tool |
 | 📦 **npm** | 9+ | Package manager |
-| 🎨 **CSS** | Inline styles | Layout, theming & black UI |
+| 🎨 **CSS** | styles | Layout, theming & black UI |
 | 🌐 **HTML5** | — | App entry point (`index.html`) |
 | 🟨 **JavaScript** | ES6+ | Core logic & array manipulation |
 
