@@ -48,11 +48,6 @@ A React-based To-Do List application with manual sequence reordering using React
 ## 📦 Getting Started
 
 ```bash
-# Clone the repo
-git clone https://github.com/your-username/todo-list.git
-
-# Navigate into the project
-cd todo-list
 
 # Install dependencies
 npm install
