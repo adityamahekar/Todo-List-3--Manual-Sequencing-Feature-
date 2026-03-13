@@ -4,16 +4,20 @@
 A React-based To-Do List application with manual sequence reordering using React Hooks.
 
 ---
-
 ## 🖼️ Screenshots
-
-| 🗒️ ToDoList using React Hook 1 | 🗒️ ToDoList using React Hook 2 (ADD) | 🗒️ ToDoList using React Hook 3 (ADD) | 🗒️ ToDoList using React Hook 4 (Sequence Change to Up)|
-|:---:|:---:|:---:|:---:|
-| ![ToDoList 1](./img/td1.png) | ![ToDoList 2](./img/td2.png) | ![ToDoList 3](./img/td3.png) | ![ToDoList 4](./img/td4.png) |
-
+ 
+| 🗒️ ToDoList using React Hook 1 | 🗒️ ToDoList using React Hook 2 (ADD) |
+|:---:|:---:|
+| ![ToDoList 1](./img/td1.png) | ![ToDoList 2](./img/td2.png) |
+ 
+| 🗒️ ToDoList using React Hook 3 (ADD) | 🗒️ ToDoList using React Hook 4 (Sequence Change to Up) |
+|:---:|:---:|
+| ![ToDoList 3](./img/td3.png) | ![ToDoList 4](./img/td4.png) |
+ 
 | 🗒️ ToDoList using React Hook (DELETE) | 🗒️ ToDoList using React Hook (Full Screen) |
 |:---:|:---:|
 | ![ToDoList 5](./img/td5.png) | ![ToDoList 6](./img/td6.png) |
+ 
 
 ---
 
