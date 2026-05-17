@@ -1,5 +1,5 @@
 
-# 📝 To-Do-List App [Sequencingg Feature]
+# 📝 To-Do-List App [Sequencing Feature]
 
 A React-based To-Do List application with manual sequence reordering using React Hooks.
 
